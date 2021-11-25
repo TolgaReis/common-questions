@@ -4,4 +4,4 @@ Answers to common questions during the software development process. Thanks to t
 ## Contents
 
 - [Common SQL Questions](./database/sql/common-sql-questions.md)
-- [Common Spring Boot Questions](./database/sql/common-spring-boot-questions.md)
+- [Common Spring Boot Questions](./rest/spring-boot/common-spring-boot-questions.md)
